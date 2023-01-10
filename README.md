@@ -16,5 +16,5 @@
 </p>
 
 <a href="https://github.com/NeikoStream">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexPloz&theme=codeSTACKr&show_icons=true" alt="AlexPloz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexPloz&theme=swift&show_icons=true" alt="AlexPloz's GitHub Stats" />
 </a>
