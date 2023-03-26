@@ -11,7 +11,7 @@
     * :clipboard: [Specifications :fr:](https://www.dropbox.com/home?preview=CDCF_E_DURAND_CALMET_RIGAL_MOLE_AFRITE_+%281%29.pdf)
 * :camera: [SCRUM project management :fr:](https://www.dropbox.com/home?preview=Projet+Banque+Revue+sprint+1.mov)
 * :cd: [DB normalization](https://github.com/4PoH/SaeMedData)
-    * :pushpin:[Report 🏴󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
+    * :pushpin:[Report :eu:󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
 
 ## My Skills
 <p align="center">
