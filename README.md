@@ -3,7 +3,7 @@
 * 🔔  You can email me on [alexandre.mole31@gmail.com](mailto:alexandre.mole31@gmail.com)
 * 🚀  I'm currently a 2nd year student in [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 * ✉️  You can also look at my [Linkedin](https://www.linkedin.com/in/alexandre-mole-9956a8260/)
-* 🤵   My resume(https://www.dropbox.com/s/l3hgaczywx232rj/CV%20Alexandre%20Mole.pdf?dl=0)
+* 🤵   [My resume](https://www.dropbox.com/s/l3hgaczywx232rj/CV%20Alexandre%20Mole.pdf?dl=0)
 
 ## My Works
 
