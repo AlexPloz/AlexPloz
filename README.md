@@ -5,7 +5,7 @@
 * ✉️  You can also look at my [Linkedin](https://www.linkedin.com/in/alexandre-mole-9956a8260/)
 * 🤵   [My resume](https://www.dropbox.com/s/l3hgaczywx232rj/CV%20Alexandre%20Mole.pdf?dl=0)
 
-## My Works
+## My projects
 
 * :file_folder: [Database-driven application](https://github.com/4PoH/SaeCabarent)
     * :clipboard: [Specifications :fr:](https://www.dropbox.com/home?preview=CDCF_E_DURAND_CALMET_RIGAL_MOLE_AFRITE_+%281%29.pdf)
@@ -13,7 +13,7 @@
 * :file_folder: [DB normalization](https://github.com/4PoH/SaeMedData)
     * :clipboard:[Report :eu:󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
 
-## My Skills
+## My skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,php,c,mysql,vscode,eclipse,css" />
