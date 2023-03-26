@@ -16,6 +16,7 @@
 * 📁[Java Application (SAE Fromage)](https://github.com/AlexPloz/SAE_Fromage) <sub>(Java, Eclipse IDE)</sub>
 * :clipboard:[Djikstra/Bellman-Ford algorithms :fr:](https://www.dropbox.com/home?preview=Algorithm.pdf) <sub>(Python)</sub>
 * :clipboard:[APEX Oracle report :fr:](https://www.dropbox.com/home?preview=Oracle+APEX.pdf) 
+* 📁[Group teamwork (SAE Organisation d'un triathlon)](https://www.dropbox.com/home/Organisation%20d'un%20triathlon)
 
 ## My skills
 <p align="center">
