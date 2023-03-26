@@ -11,7 +11,7 @@
     * :clipboard: [Specifications :fr:](https://www.dropbox.com/home?preview=CDCF_E_DURAND_CALMET_RIGAL_MOLE_AFRITE_+%281%29.pdf)
 * :camera: [SCRUM project management :fr:](https://www.dropbox.com/home?preview=Projet+Banque+Revue+sprint+1.mov) <sub>(Trello, Windev)
 * :file_folder: [DB normalization](https://github.com/4PoH/SaeMedData) <sub>(Python, Excell, PowerBi)</sub>
-    * :clipboard:[Report :eu:󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
+    * :clipboard:[Report <sub>EN</sub>󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
 * :file_folder:[API Authentification](https://github.com/AlexandreCalmet/ProjetPHP) <sub>(PHP, Oracle DataBase)</sub>
 
 ## My skills
