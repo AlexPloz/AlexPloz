@@ -9,6 +9,7 @@
 
 * 🏡 [Gestion Locative](https://github.com/4PoH/SaeCabarent)
 * :camera: [Gestion de projet SCRUM](https://www.dropbox.com/home?preview=Projet+Banque+Revue+sprint+1.mov)
+* :cd: [DB normalization](https://github.com/4PoH/SaeMedData)
 
 ## My Skills
 <p align="center">
