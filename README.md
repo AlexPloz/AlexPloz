@@ -7,12 +7,12 @@
 
 ## My projects
 
-* :file_folder: [Database-driven application](https://github.com/4PoH/SaeCabarent) Java, JDBC, SQLDevelopper, Oracle DataBase
+* :file_folder: [Database-driven application](https://github.com/4PoH/SaeCabarent) <sub>(Java, JDBC, SQLDevelopper, Oracle DataBase)</sub>
     * :clipboard: [Specifications :fr:](https://www.dropbox.com/home?preview=CDCF_E_DURAND_CALMET_RIGAL_MOLE_AFRITE_+%281%29.pdf)
-* :camera: [SCRUM project management :fr:](https://www.dropbox.com/home?preview=Projet+Banque+Revue+sprint+1.mov) Trello, Windev
-* :file_folder: [DB normalization](https://github.com/4PoH/SaeMedData) Python, Oracle DataBase, PowerBi
+* :camera: [SCRUM project management :fr:](https://www.dropbox.com/home?preview=Projet+Banque+Revue+sprint+1.mov) <sub>(Trello, Windev)
+* :file_folder: [DB normalization](https://github.com/4PoH/SaeMedData) <sub>(Python, Oracle DataBase, PowerBi)</sub>
     * :clipboard:[Report :eu:󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
-* :file_folder:[API Authentification](https://github.com/AlexandreCalmet/ProjetPHP) PHP, Oracle DataBase
+* :file_folder:[API Authentification](https://github.com/AlexandreCalmet/ProjetPHP) <sub>(PHP, Oracle DataBase)</sub>
 
 ## My skills
 <p align="center">
