@@ -13,8 +13,9 @@
 * :file_folder: [DB normalization](https://github.com/4PoH/SaeMedData) <sub>(Python, Excell, PowerBi)</sub>
     * :clipboard:[Report <sub>EN</sub>󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
 * :file_folder:[API Authentification](https://github.com/AlexandreCalmet/ProjetPHP) <sub>(PHP, Oracle DataBase)</sub>
-* :clipboard:[Djikstra/Bellman-Ford algorithms :fr:](https://www.dropbox.com/home?preview=Algorithm.pdf)
-* :clipboard:[APEX Oracle report :fr:](https://www.dropbox.com/home?preview=Oracle+APEX.pdf)
+* 📁[Java Application](https://github.com/AlexPloz/SAE_Fromage) <sub>(Java, Eclipse IDE)</sub>
+* :clipboard:[Djikstra/Bellman-Ford algorithms :fr:](https://www.dropbox.com/home?preview=Algorithm.pdf) <sub>(Python)</sub>
+* :clipboard:[APEX Oracle report :fr:](https://www.dropbox.com/home?preview=Oracle+APEX.pdf) 
 
 ## My skills
 <p align="center">
