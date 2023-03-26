@@ -5,7 +5,7 @@
 * ✉️  You can also see my [Linkedin](https://www.linkedin.com/in/alexandre-mole-9956a8260/)
 
 ## My Works
-* 🤵 [My resume](https://)
+* 🤵 [My resume](https://https://www.dropbox.com/s/l3hgaczywx232rj/CV%20Alexandre%20Mole.pdf?dl=0)
 * 🏡 [Gestion Locative](https://)
 
 ## My Skills
