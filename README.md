@@ -17,6 +17,7 @@
 * :clipboard:[Djikstra/Bellman-Ford algorithms :fr:](https://www.dropbox.com/home?preview=Algorithm.pdf) <sub>(Python)</sub>
 * :clipboard:[APEX Oracle report :fr:](https://www.dropbox.com/home?preview=Oracle+APEX.pdf) 
 * 📁[Group teamwork (SAE Organisation d'un triathlon) :fr:](https://www.dropbox.com/home/Organisation%20d'un%20triathlon)
+* 📁[Group teamwork (TheFork oral presentation powerpoint) <sub>EN</sub>](https://www.dropbox.com/home?preview=TheFork.pdf)
 
 ## My skills
 <p align="center">
