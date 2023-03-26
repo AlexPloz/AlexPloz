@@ -7,7 +7,7 @@
 
 ## My Works
 
-* 🏡 [Database-driven application](https://github.com/4PoH/SaeCabarent)
+* :computer: [Database-driven application](https://github.com/4PoH/SaeCabarent)
 * :camera: [SCRUM project management](https://www.dropbox.com/home?preview=Projet+Banque+Revue+sprint+1.mov)
 * :cd: [DB normalization](https://github.com/4PoH/SaeMedData)
 
