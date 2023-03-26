@@ -7,6 +7,7 @@
 ## My Works
 * 🤵 [My resume](https://www.dropbox.com/s/l3hgaczywx232rj/CV%20Alexandre%20Mole.pdf?dl=0)
 * 🏡 [Gestion Locative](https://github.com/4PoH/SaeCabarent)
+* [Gestion de projet SCRUM](https://github.com/AlexPloz/AlexPloz/blob/main/Projet%20Banque%20Revue%20sprint%201.mov)
 
 ## My Skills
 <p align="center">
