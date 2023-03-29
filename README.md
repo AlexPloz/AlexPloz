@@ -7,6 +7,8 @@
 
 ## My projects
 
+* :flower_playing_cards: [BUT2 Portfolio powerpoint](https://www.dropbox.com/home?preview=PortfolioS4.pptx)
+
 * :file_folder: [Database-driven application](https://github.com/4PoH/SaeCabarent) <sub>(Java, JDBC, SQLDevelopper, Oracle DataBase)</sub>
     * :clipboard: [Specifications :fr:](https://www.dropbox.com/home?preview=CDCF_E_DURAND_CALMET_RIGAL_MOLE_AFRITE_+%281%29.pdf)
 * :camera: [SCRUM project management :fr:](https://www.dropbox.com/home?preview=Projet+Banque+Revue+sprint+1.mov) <sub>(Trello, Windev)
