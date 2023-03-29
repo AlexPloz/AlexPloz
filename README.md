@@ -16,7 +16,7 @@
     * :clipboard:[Report <sub>EN</sub>󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
 * :file_folder:[API Authentification <sub>S2</sub> ](https://github.com/AlexandreCalmet/ProjetPHP) <sub>(PHP, MySQL DataBase)</sub>
 * 📁[Java Application (SAE Fromage <sub>S2</sub> )](https://github.com/AlexPloz/SAE_Fromage) <sub>(Java, Eclipse IDE)</sub>
-* :clipboard:[Djikstra/Bellman-Ford algorithms <sub>S2</sub> :fr:](https://www.dropbox.com/home?preview=Algorithm.pdf) <sub>(Python)</sub>
+* :clipboard:[Djikstra/Bellman-Ford algorithms (SAE maths <sub>S2</sub>) :fr:](https://www.dropbox.com/home?preview=Algorithm.pdf) <sub>(Python)</sub>
 * :clipboard:[APEX Oracle report <sub>S2</sub> :fr:](https://www.dropbox.com/home?preview=Oracle+APEX.pdf) 
 * 📁[Group work (SAE Organisation d'un triathlon) <sub>S2</sub> :fr:](https://www.dropbox.com/home/Organisation%20d'un%20triathlon)
 * 📁[Group work (TheFork oral presentation powerpoint) <sub>S4</sub> <sub>EN</sub>](https://www.dropbox.com/home?preview=TheFork.pdf)
