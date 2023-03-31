@@ -15,7 +15,7 @@
 * :file_folder: [DB normalization <sub>S2</sub>](https://github.com/4PoH/SaeMedData) <sub>(Python, Excell, PowerBi)</sub>
     * :clipboard:[Report <sub>EN</sub>󠁧󠁢󠁥󠁮󠁧󠁿](https://www.dropbox.com/home?preview=DurandRigalSechiCalmetMole_E.docx)
 * :file_folder:[APIs (Authentification & Publications) <sub>S2</sub> ](https://github.com/AlexandreCalmet/ProjetPHP) <sub>(PHP, MySQL DataBase)</sub> 
-   * :clipboard: [Specifications :fr:](https://www.dropbox.com/home?preview=R4.01_Rapport_Mole_Calmet.pdf)
+   * :clipboard: [Specifications :fr: <sub>(Installation guide en</sub>)](https://www.dropbox.com/home?preview=R4.01_Rapport_Mole_Calmet.pdf)
 * 📁[Java Application (SAE Fromage <sub>S2</sub> )](https://github.com/AlexPloz/SAE_Fromage) <sub>(Java, Eclipse IDE)</sub>
 * :clipboard:[Djikstra/Bellman-Ford algorithms (SAE maths <sub>S2</sub>) :fr:](https://www.dropbox.com/home?preview=Algorithm.pdf) <sub>(Python)</sub>
 * :clipboard:[APEX Oracle report <sub>S2</sub> :fr:](https://www.dropbox.com/home?preview=Oracle+APEX.pdf) 
