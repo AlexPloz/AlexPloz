@@ -1,4 +1,4 @@
-### Hey I am Alexandre Mole 👋
+### Welcome to my Git profile 👋
 *  :earth_africa: I am from Toulouse - FRANCE
 * 🔔  You can email me on [alexandre.mole31@gmail.com](mailto:alexandre.mole31@gmail.com)
 * 🚀  I am currently a 2nd year student in [Bachelor in Computer Science specialized in data (BUT)](https://www.univ-tlse3.fr/but-specialite-informatique)
