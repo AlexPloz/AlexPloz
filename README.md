@@ -21,7 +21,7 @@
 * :clipboard:[APEX Oracle report <sub>S2</sub> :fr:](https://www.dropbox.com/home?preview=Oracle+APEX.pdf) 
 * 📁[Group work (SAE Organisation d'un triathlon <sub>S2</sub>) :fr:](https://www.dropbox.com/home/Organisation%20d'un%20triathlon)
 * 📁[Group work (TheFork oral presentation powerpoint <sub>S4</sub>) <sub>EN</sub>](https://www.dropbox.com/home?preview=TheFork.pdf)
-* 📁[Group work (TV series search engine <sub>S5</sub>) <sub>EN</sub>](https://github.com/AlexPloz/R5C04projet)
+* 📺[TV series search engine <sub>S5</sub> <sub>EN</sub>](https://github.com/AlexPloz/R5C04projet)
 
 ## My skills
 <p align="center">
